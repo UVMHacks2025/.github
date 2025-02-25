@@ -12,12 +12,6 @@ If you are wondering why you can't create repositories, join teams, or where to 
 
 _UVM Hacks 2025 brought to you by..._
 
-- [The UVM Department of Computer Science](https://uvm.edu/cems/cs)
-- [The UVM Grossman School of Business](https://www.uvm.edu/business)
-- [UVM SWiCS (Society for Women in Computer Science)](https://swics.w3.uvm.edu/)
-- [UVM CS Crew (Computer Science Crew)](https://github.com/uvm-cscrew)
-
-| [The UVM Department of Computer Science](https://uvm.edu/cems/cs) | [UVM SWiCS (Society for Women in Computer Science)](https://swics.w3.uvm.edu/)
-| [UVM CS Crew (Computer Science Crew)](https://github.com/uvm-cscrew) | [The UVM Grossman School of Business](https://www.uvm.edu/business) |
+| [The UVM Department of Computer Science](https://uvm.edu/cems/cs) | [UVM SWiCS (Society for Women in Computer Science)](https://swics.w3.uvm.edu/) | [UVM CS Crew (Computer Science Crew)](https://github.com/uvm-cscrew) | [The UVM Grossman School of Business](https://www.uvm.edu/business) |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | ![UVM Computer Science](/csdept-logo.png) | ![](/swicslogo.svg) | ![](/cscrew-logo-white.png) | ![UVM Grossman School of Business](/gsb-logo.png) |
