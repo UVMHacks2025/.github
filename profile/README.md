@@ -4,9 +4,13 @@ _February 28th and March 1st, 2025_
 
 UVM Hacks 2025 is the second annual hackathon at the University of Vermont. Produced by a collaboration between computer science and business and including students from Middlebury College and Champlain College, this event seeks to find new and interesting ways for the technical and business communities up here to collaborate.
 
-## Competitor Information
+## Competition Results
 
-If you are wondering why you can't create repositories, join teams, or where to get an invite to this org, head over to the hackathon dashboard at https://hackhelp.unicycl.ing . Additionally, contact the organizers if you are unsure.
+_More information will be added later_
+
+### Winning Team: BashProShop
+**Repository:** https://github.com/UVMHacks2025/BashProShop
+
 
 ## Credits
 
